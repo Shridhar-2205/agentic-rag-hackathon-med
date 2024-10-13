@@ -14,8 +14,8 @@ import os
 from pinecone import Pinecone
 from pinecone_plugins.assistant.models.chat import Message
 from llama_index.readers.papers import PubmedReader
-API_KEY = "5b6c5918-f3a7-4e57-b37d-a6951efc6748"       
-os.environ["TAVILY_API_KEY"] = "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"
+API_KEY = "..."       
+os.environ["TAVILY_API_KEY"] = "..."
 
 
 
