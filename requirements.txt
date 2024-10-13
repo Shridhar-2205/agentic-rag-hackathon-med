@@ -1,0 +1,8 @@
+langchain-ollama
+pinecone
+pinecone-plugin-assistant
+llama-index
+llama-index-readers-papers
+fastapi
+uvicorn
+streamlit
